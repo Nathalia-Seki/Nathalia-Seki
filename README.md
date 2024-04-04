@@ -5,4 +5,4 @@ No meu tempo livre gosto muito de ir ao cinema (🎥), teatro (👯), assitir s�
 
 Minhas Redes Sociais:
 
-<a href="https://www.instagram.com/nathália-sayuri-pereira-seki-74916bb1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/nathália-sayuri-pereira-seki-74916bb1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
